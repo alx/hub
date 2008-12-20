@@ -1,0 +1,12 @@
+h1. Hub - A central place for publications
+
+Hub is a simple script to manage the publication of you Jekyll content on various websites.
+
+All happends in the Rakefile, have a look and customize it your way to publish your sites.
+
+h2. Requirements
+
+* Your configured "Github Page":http://you.github.com/ if you to publish
+	your content in it
+* A "Jekyll":http://github.com/mojombo/jekyll/ clone in $ROOT/jekyll/
+* "The Git gem":http://github.com/schacon/ruby-git from Scott
