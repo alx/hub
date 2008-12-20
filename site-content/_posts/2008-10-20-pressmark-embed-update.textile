@@ -1,0 +1,14 @@
+---
+layout: post
+title: Pressmark Embed update
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Nov 2008 - Toulouse
+
+"Pressmark":http://github.com/alx/pressmark/tree/master, a social bookmarking portal made with "Wordpress":http://wordpress.org, has been updated to include embedded videos/music!
+
+"!http://blog.alexgirard.com/wp-content/uploads/2008/10/imagen-1-300x248.png!":http://bookmark.alexgirard.com
+
+"Download it!":http://github.com/alx/pressmark/zipball/master

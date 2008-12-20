@@ -1,0 +1,24 @@
+---
+layout: post
+title: Using Merb-Slices to manage your gems
+---
+
+This weekend, I wanted to experiement a bit more with "merb-slices":http://github.com/wycats/merb/tree/master/merb-slices, and thought it would be a good idea to use it to manage some of the gems I've created. It include few advantages:
+
+* You can add a web interface to test your gem
+* Rspec is directly include to debug the gem when problems appear
+* It's easy to create, deploy and could be used in any rails/merb app
+
+I've tested the migration with "rfeedfinder":http://rfeedfinder.rubyforge.org, a gem to discover feed url from any webpage. In a few easy steps, I migrated the gem into a slice:
+
+# Create a slice: _merb-gen slice rfeedfinder-slice_
+# Copy te class you need from your gem lib in a new file inside _lib/rfeedfinder-slice/_ directory. Enclose it inside '_module RfeedfinderSlice ... end_'
+# In "_lib/rfeedfinder-slice.rb_":http://github.com/alx/rfeedfinder-slice/tree/master/lib/rfeedfinder-slice.rb, add your gem dependencies at the end of the file
+# Don't forget to include your lib file into the dependencies
+# To install the gem on your system, nothing easier than: _sudo rake install_
+
+I'll let you see the web interface, all the routes are already configure, you just need to add a form, and get fancy if you want to use the slice as a proper merb-slice to be included in a complete merb app. Then you can use it in a ruby script, or in other rails/merb applications:
+
+<script src="http://gist.github.com/30501.js"></script>
+
+See the end result on github: "rfeedfinder-slice":http://github.com/alx/rfeedfinder-slice/

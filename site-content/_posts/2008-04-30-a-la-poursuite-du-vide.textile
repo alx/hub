@@ -1,0 +1,120 @@
+---
+layout: post
+title: A La Poursuite du Vide, par John Perry Barlow
+---
+
+h1. {{ page.title }}
+
+p(meta). 30 Avril 2008 - Toulouse
+
+Un traduction du texte original de John Perry Barlow, aussi "disponible en anglais":http://w2.eff.org/Misc/Publications/John_Perry_Barlow/HTML/The_Pursuit_of_Emptyness.html:
+
+_Le bonheur est l'absence de recherche du bonheur_ - Chuang-Tzu (350 B.C.)
+
+Chuang-Tzu avait raison. Rien de plus à dire. Mais la nature humaine est ainsi faite: plus nous énonçons la vérité de façon succincte, plus nous avons tendance à l'ignorer. Donc, malgré la complétude de cette homélie, je développerai, en espérant que mon livre pourra insinuer dans votre approche globale ce que la brièveté de Chuang-Tzu n'a pas pu faire.
+
+Voilà ce que je crois. Je crois que l'exaltation de la recherche du bonheur fut une stupidité toxique totalement indigne de mon plus grand héro américain, Thomas Jefferson. En effet, c'est un poison qui rend notre culture plus misérable à chaque nano seconde. J'aurai aimé qu'il ne l'ai jamais dit.
+
+Cela produit une monstrueuse, insatiable faim dans le psyché de notre nation, qui nous encourage de dévorer toujours plus voracement toutes les ressources de notre petite planète, en écrasant les libertés, tabassant des vies, en se sentant ordonner par Dieu et Thomas Jefferson de faire tout le nécessaire pour être heureux.
+
+Et les américains ont toujours l'air misérable. Ou ainsi ils paraissent.
+
+Une anecdote surprenante (je pourrai vous en donner des milliers d'autres comme exemple). Au début de cette année, mon amoureuse Lotte et moi avons décidé de commencer à compter le nombre de sourires spontanés que nous pourrions observer dans le classieux supermarché organique que nous fréquentons à San Francisco.
+
+Depuis, nous avons vu des milliers de visages, la plupart en pleine forme, beaux, et soignés très chiquement. Pour l'instant, nous avons compté sept sourires. En 11 mois. Sept sourires. (Et avec au moins 3 pas sincères.) Je ne rigole pas.
+
+Je passe aussi beaucoup de temps dans les aéroports américains. La même expression de concentration troublé est devenue un masque presque universellement porté par mes compatriotes. Rarement j'entends rire dans un aéroport, bien qu'il y ai beaucoup de chose risible, bien que sinistre.
+
+Qui suis-je pour penser que mes compatriotes, qui, pendant l'an 2000, tout en alimentant la plus grande cuvette porcine économique que le monde n'ait jamais connu, ont aussi bouffé l'équivalent de 13.4 milliard de dollars de Prozac et autre antidépresseurs (18% de plus que l'année précédente)? Mieux vaut-il vivre chimiquement? Je ne pense pas. De la légion de mes amis et connaissances qui sont devenus citoyens de la nation Prozac, je n'ai jamais entendu aucun d'entre eux déclarer que ces drogues les avait amenés plus près d'un quelconque bonheur. Plutôt, ils murmurent avec une gratitude blasée, que les antidépresseurs les ont retirés de l'abîmes. Ils ne recherchent pas le bonheur. Ils se sauvent du suicide.
+
+En fait, il est injuste de distinguer les Etats-Unis à cet égard. La pandémie de convoitise a peut être démarrée dans le pays des possibilités infinies, mais elle semble avoir commencé à se répandre dans toutes les parts du monde où l'économie industrielle et la religion de la science ont pris racine depuis que Jefferson, Voltaire, Locke, et leur autres collègues pratiques leur ont donné un coup de démarrage il y a un quart de millénaire.
+
+Le taux de sourires au kilomètre est seulement un peu plus élevé à Genève, Bruxelles, Washington, Paris, et dans toutes les capitales du Monde Riche que dans notre San Francisco morne. Mais au moins le reste du G8 n'a pas déclaré le bonheur pour être le genre d'engagement patriotique qu'il est devenu dans le pays littéralement fondé dessus.
+
+Ici nous souffrons de la tyrannie de la bonhomie frauduleuse. Big Brother est arrivé avec comme le grande visage souriant d'un Smiley. Je pense que j'ai probablement senti cela arriver très tôt, car je viens d'une famille où presque tout le monde buvait jusqu'à l'oublie pendant des périodes comme Noël quand le bonheur est le plus pathologiquement poursuivi.
+
+Ce n'est pas avant mes 30 ans qu'il m'a paru évident que ma prudence dans la recherche du bonheur était peut être une subtile forme de trahison. Comme beaucoup de gens de ma génération, je ne m'attendais pas à vivre aussi vieux. Je ne croyais vraiment personne de plus de 30 ans - et reste toujours réticent à le faire aujourd'hui - mais alors que j'allais devenir l'un des leurs, je pensais que je devais au moins essayer d'avoir un élégant âge adulte. Au moins il paraissait clair que je ne pourrais plus excuser mes petites erreurs sur le dos de la jeunesse.
+
+Alors j'ai passé la nuit précédent mon 30ième anniversaire à me faire une liste de conseils que j'ai appelé "Les principes du comportement adulte." La plupart de ses éléments étaient aimablement indiscutables, le genre de platitude que Polonius aimait imposer à Hamlet. Des choses comme "Développe le champs des possibles." Et, "Tolère l'ambiguïté."
+
+"Evite la recherche du bonheur. Essaye de définir ta mission, et poursuis-là"
+
+Malgré son aspect puritain et sans risque, cette homélie a vraiment énervé une foule de gens la plus variée que vous pouvez imaginer. Qu'il soit hippie, cow-boy, redneck ou débutant au théâtre, quasiment tous ceux qui lisaient ma liste pensaient qu'il y avait quelque chose de terriblement malsain dedans. C'était... bien, c'était simplement anti-américain! J'ai même eu cette réaction de la part de gens qui étaient gênés d'être américains.
+
+S'agiter ouvertement contre la vrai poursuite du bonheur était considéré comme une révolte sournoisement risquée. Car tout le monde ressent cette pression invisible et bizarre - les envoyant vers une fatigue qui est le désespoir, afin de posséder des biens qui les possèdent, l'argent qui transforme leurs amis en monstres, des addictions qui les tournent eux-même en monstres - presque tout le monde ressent cette honte secrète de ne pas assez essayer d'être heureux.
+
+Avoir quelqu'un qui leur dit qu'ils devraient juste arrêter d'essayer semble être une menace au sermon qu'ils ont pris sur leur vie. Ils ont juré, parfois durant l'adolescence, qu'ils poursuivraient le bonheur, et, par pure volonté, qu'ils en auraient un peu. Quand vous sacrifiez tant pour un credo, le voir disparaître transforme vos sacrifices en marchandises volées.
+
+Voilà la douce aspiration de Jefferson devenu une loi. Le droit de faire quelque-chose de contre-productif - rechercher un concept qui fuit en symétrie absolue votre propre désir, rechercher le bonheur - est devenu un devoir, aussi sûrement que la charité est devenu un droit. Si nous n'étions pas à la recherche du bonheur - quoi que cela signifie pour n'importe qui - nous ne faisions pas partie de La Grande Amérique.
+
+Et pendant que les bonheur devenait notre dû américain, le sens profond de notre volonté d'être heureux semble avoir fané en général. Kant parlait de "créer nous-même le mérite au bonheur." Il me semble que peu d'américains agissent comme s'il l'avait fait.
+
+Je ne sais pas où la maladie a apparu, mais je pense qu'il y a une épidémie de haine de soi-même dans ce pays qui est, sans compter la folie de la poursuite elle-même, la plus grande barrière au contentement de la plupart des coeurs. Je ne peux pas compter le nombre de gens que j'ai connu à qui la misère parmi l'abondance a semblé être un soupçon de joie enraciné tellement profond dans leur personnalité qu'il a dut y être plantée durant l'enfance. Ce n'est pas simplement la conscience sensible des cycles - que le prix normal de la magie est la tragédie et que la vie est réellement juste. Si seulement cela été si sage.
+
+Plutôt cela semble être un sens de son propre oubli du péché originel, la croyance brumeuse qu'en échouant aux premiers essais de la vie, l'homme misérable s'est fait indigne pour toujours sur n'importe paradis terrestre qu'il pourra retrouver autour de lui. J'ai eu deux amis qui se sont suicidés plutôt que d'accepter leur propre succès, et je suis sûr qu'il y en a d'autres comme eux.
+
+Oubliez-ça. Quelque soit votre mauvais côté, vous méritez du bonheur. Juste, ne le considérez pas comme un droit ou une obligation.
+
+Laissez-moi clarifier. J'aime le bonheur. Zut, je pense que je suis heureux la plupart du temps. (Je sais. La plupart des américains, quand ils sont sondés, vous diront la même chose, mais j'ai l'air heureux la plupart du temps, ce qui ne peut pas se dire de la plupart des américains.)
+
+Et quand je suis heureux, pourquoi suis-je heureux?
+
+Jamais parce que je l'ai recherché. Plutôt parce que je l'ai laissé me trouver. Pour moi, il semble que plus on l'ignore, plus le bonheur viendra jeter un oeil. Swami Satchidananda le dit d'une meilleure façon:
+
+"Si vous courrez après des choses, rien ne viendra a vous. Laissez les choses courir après vous. La mer n'envoie jamais d'invitation aux rivières. C'est pour cela qu'elles courent vers la mer. La mer est satisfaite. Elle ne veut rien. C'est le secret de la vie."
+
+Je ne suis pas sûr de l'effet sur l'économie si tout le monde prenait ce dicton à coeur, mais j'ai le sentiment que ça ressemblerait à celle de Satchidananda. Mais cela serait-il aussi mauvais que ça? Bien que je ne sois pas près à partir pour l'Inde, je me demande après mes expériences en Afrique si je ne serai pas plus heureux là-bas.
+
+J'ai passé beaucoup de temps en Afrique durant les dernières années et, quelque soit l'endroit où je vais dans ce supposé sombre continent, je suis sans cesse étonné à quel point les gens ont l'air heureux. Bien qu'ils vivent avec le sida pandémique, la famine, la saleté, les maladies, et des morbides petites guerres où les enfants se démembrent les uns les autres, la plupart des africains sourient et nous saluent quand je passe par leurs villages. ils ont l'air de signifier, aussi. Ils n'auraient probablement pas le même type d'expériences en passant dans nos banlieues.
+
+L'apparent bonheur des africains, contre toute horreur, à l'air de venir d'un sens des liens, ou comme le Zulu le dit, "ubunto". Ce mot est souvent traduit pour signifier communauté, mais l'un d'eux m'a donné ce que je pense être une définition plus précise: "Je suis car nous sommes; nous sommes car je suis."
+
+En d'autres mots, leur poursuite du bonheur à l'air plus réussie que la notre car ce n'est pas une tentative solitaire. Le bonheur africain est une entreprise commune, quelque chose qui peut n'être seulement créé ensemble. Je suis heureux car nous sommes heureux. Beaucoup de satisfaction surgit du sens de la famille, de la communauté, et des relations.
+
+De telles vertus sont des réserves en diminution aux Etats-Unis. Deux tiers de nos premiers mariages finissent en divorce. La guerre entre les enfants et les parents n'a jamais été aussi horrible (maintenant que c'est dissimulé, au lieu d'être publique comme ça l'était dans les années 60). On pense que AOL et le supermarché local sont des communautés. On pense que Disney, l'entreprise, est un conteur d'histoire. Et, en extrapolant, nous sommes tous connectés, grâce largement aux média de masse comme la télévision, qui, Bertrand Russell l'a souligné, "permet à des milliers de gens de rire aux même blague tout en restant seuls."
+
+Imaginez un soir passé à regarder par les fenêtre des banlieues des Etats-Unis. Pensez aux visages que vous y trouverez, faiblement éclairées par le clignotement d'un bain bleu d'électrons que le Grand Média diffuse sur leur "loisir". Les joues creuse et dans le silence, une bière dans la main, l'autre main dans un paquet de chips, ils regardent les autres "gens" passer par des "épreuves" inventées et s'imaginent poursuivre le bonheur.
+
+Mais ils ne sont pas en train de rechercher le bonheur. Il recherche ce que j'appelle La Zone, un condition mentale et émotionnelle où rien ne se passe. Rien ne peux se passer à part les nécessités les plus rudimentaires de la vie et des loisirs tout-prêts. Dans La Zone, ils sont laissés seuls. On leur accorde une sorte de paix contournée.
+
+Par là, je ne veux pas dire que La Zone est un alcyon et une sérénité mentale. Ce n'est seulement que la correspondances de ces états inspirés à par les mystiques orientaux avec la dissipation extérieur (*).  C'est plutôt comme être dans un poumon de fer que dans n'importe quel état que vous attendrez en pratiquant le Zazen. Plutôt que d'être détaché du monde illusoire des perceptions, la personne est douloureusement séparé d'un monde qui semble complètement réel. Absolument personne n'aime être dans La Zone. ce qui est étrange n'est pas seulement que nous lui permettons d'exister, nous l'encourageons dans chaque partie de nos vies, que ce soit dans nos bureaux cubiques, nos véhicules de transports, nos menuisiers sisypheins, nos paysages génériquement paysagers.
+
+Dans La Zone, une personne n'a pas à porter d'attention sur quelque chose de plus important que, par exemple, savoir qui a gagné le match de football, et il semble que bon nombre d'entre nous n'en serait pas capable.
+
+Si nous ne pouvons pas atteindre le bonheur par les loisirs, pourquoi ne pas l'acheter? J'ai contourné le sujet plus tôt, mais j'admet qu'il faut dire un mot sur la richesse et le bonheur. Après tout, la dangereuse énoncé de Jefferson sur les libertés essentielles était précédée par celle de John Locke: "Vie, Liberté, et Propriété". Etant donné les similarités entres les deux expressions, c'est naturel si un certain amalgame se crée. Et il s'est crée.
+
+Presque tout le monde aux Etats-Unis a l'air de prendre la richesse et le bonheur comme deux concept pratiquement interchangeable. Même la sage Bessie Smith est connue pour avoir dit: "J'ai été riche et j'ai été pauvre, et laissez-moi vous dire, chéri, il vaut mieux être riche." Peut-être. Mais définissons les conditions.
+
+Si, comme je le suspecte, elle parlait de grande pauvreté contre la richesse modeste, je pourrait être d'accord avec elle. Mais la plupart des américains à la recherche du bonheur matériel sont en train d'essayer de passer de la pauvreté modeste à la sale richesse, et, ils ont vu, cette dernière décennie, pleins de leurs amis revenir avec ce que Stewart Brand appelle le "luxe toxique". Je ne changerai de place avec aucun d'entre eux. (Même pas maintenant, depuis que ma propre richesse s'est évaporée...) J'ai le sentiment que j'ai assez d'argent pour éviter les frayeurs, mais à peine assez pour me mettre aux mains de l'autonomie paranoïaque et la paralysie de la raison d'être qui semble avoir frappé la plupart d'entre eux. Et jamais je n'ai à me demander si quelqu'un m'aime vraiment pour mon argent.
+
+Je suspecte que le plus grand bénéfice de la création de la bulle internet et sa subséquente explosion sera qu'il y a eu plus de gens qui auront expérimenté une grand et éphémère richesse à un jeune âge qu'à n'importe quel moment de notre histoire. Il y a maintenant parmi nous un grand nombre de jeune gens qui connaissent le vide qui peut seulement venir avec trois Porsches dans le garage et deux bimbos dans le lit. Il y a beaucoup de gosses intelligents qui sont maintenant plus occupés à faire une différence qu'a faire des dollars. Au moins, la plupart de ceux là savent maintenant, profondément,
+
+que l'argent n'achète pas le bonheur.
+
+Bien voilà, si vous ne pouvez pas poursuivre le bonheur, comment pouvez-vous faire de vous un lieux fertile pour laisser le bonheur pousser de lui-même? Le bonheur étant le plus subjectif des états, je peux seulement parler pour moi-même. J'ai trouvé quatre qualités qui je crois enrichissent naturellement l'écologie de la joie. Quand je suis capable de les soutenir, elles me soutiennent et continuent à le faire même dans ces jours étranges. Elles sont: un sens de la mission, le service occasionnel aux autres, la consolation de petits plaisirs, et en conclusion, l'amour dans son propre égard.
+
+Avoir le sentiment d'une mission m'a servi énormément, bien plus que je le pensais quand j'ai écrit le Principe Adulte Numéro 15 et me suis attaché a son but plutôt qu'à son sous-produit. Souvent j'ai été sous pression pour définir mon but et cela s'est sûrement vu sous différentes formes durant le cours de ma carrière, mais j'ai eu beaucoup de plaisirs d'une certaine façon - souvent grandiose et parfois illusoire -  à être, par mes diverses actions, en train d'aider à créer un futur qui sera plus libre, plus tolérant, plus ouvert, et plus juste.
+
+Mon but premier est d'être un bon ancêtre, et bien que, par définition, je ne serai jamais si j'ai réussi, je suis heureux de croire que je fais de mon mieux.
+
+Reliée au bonheur de la mission est une autre joie qui peut pas plus n'être poursuivie que la grâce elle-même: le cadeau de la création. J'ai été béni par l'opportunité de laisser l'art passer par moi à diverse occasion. Que ce soit des chansons, des essais, ou des meules de foin bien conçues, ces manifestations de beauté, pour lesquelles je ne prends plus de crédit qu'un robinet devrait prendre devant son eau, ont été de merveilleux cadeaux.
+
+Le sens qu'on est devenu l'instrument de l'invention est tellement satisfaisant que je trouve cela parfaitement étourdissant que quelqu'un dise que les artistes sont motivés de créer principalement pour l'argent qu'ils pourraient obtenir avec de tels miracles. Sans dire qu'ils ne devraient pas être payés. Les payer leur fourni plus de temps et de libertés pour faire passer l'art. Mais il est rare qu'un artiste soit dans son domaine pour l'argent. Un vrai artiste crée car il n'a pas le choix. Il est pousser dans le service involontaire de l'art, et ainsi, de l'humanité.
+
+Cela m'amène à une autre consolation bon marché disponible pour tous. Considérez les joies du service. Comme quelques leaders, de Jimmy Carter au Dalai Lama, ont démontré avec leurs vies, nous pouvons devenir heureux par l'exercice de la compassion. Mais en suivant la formation que nous recevons dans les écoles et sur les lieux de travail, nous en somme venus a considérer le service comme un devoir d'auto-flagellation plutôt qu'une responsabilité auto-épanouissante. Ce ne doit pas être de cette façon.
+
+Je pense qu'un problème relatif est que nous tendons à approcher le service de la même façon que nous approchons des programmes d'exercices, dans des mouvements brusques et des spasmes. Nous mettons la barre trop haut dès le début. Nous ne voyons pas ceux qui servent aussi, sans quand même se diriger vers Calcutta pour soulager les lépreux mourants, en aidant simplement parfois les étrangers avec un peu d'humour et de bonté. Vous ne devez pas être Gandhi pour être un bon type. Il y a peu de choses qui me rendent plus heureux que de résister à l'impulsion de gronder certains irrespectueux fainéants tout en m'élevant dans une position activement bénigne. De telles opportunités arrivent presque toutes les heures. (Bien que je ne me lève pas toujours avec elles.) L'habitude de petites bontés est extrêmement gratifiante.
+
+Ce qui m'amène à une autre source de fontaine sous-estimée: les petites joies simple que l'univers laisse traîner partout pour l'observateur vraiment détendu. Je pense à quelque chose que Kafka - ce bonheur remarquable - a écrit:
+
+"Il n'est pas nécessaire que tu quittes la maison. Reste assis à ta table et écoute. N'écoute même pas, attend juste. N'attend même pas, sois totalement immobile et seul. Le monde se présentera lui-même à toi par son dévoilement, il ne peut rien faire d'autre, dans l'extasie qu'il dégagera à tes pieds""
+
+Il ne parle pas de la poursuite du bonheur. Il ne parle même pas de, comme quelqu'un pourrait facilement et incorrectement conclure, s'allonger et d'attendre le bonheur. Il parle d'y être véritablement prêt. Il parle de s'ouvrir tous les sens aux petits plaisirs - les couchers de soleil, les brises aux odeurs de lilas, les blagues hilarantes des serveurs, le passage rapide de sourires anonymes, les paix intérieures, les longs ronronnements de chats, les cliquetis des talons aiguille, les pop du papier a bulle, le chant liquide des sturnelles, le haussement d'épaule d'un policier new-yorkais - la texture granuleuse d'une joie imprévue.
+
+Il y a eu beaucoup de périodes difficiles dans ma vie - en incluant le présent - quand je me réfugie dans un objectif réduit, me confortant dans le splendide filigrane de l'existence immédiate. Même un homme face à une brigade de pompier peut apprécier l'aube qui se range également devant lui.
+
+Finalement, et toujours, il y a l'amour. Par là, je ne parle pas de cette occasion économique qui passe pour de l'amour ces jours-ci. Je ne dit pas que je t'aimerai si tu as des bonnes notes, ou que je t'aimerai si tu couches avec moi, ou que je t'aimerai si... Je veux dire ce que je veux dire quand je dis, "je t'aime." Point. Sans attente, condition, limite de péremption, codicille, ou engagement. Dire ça - et le signifier dans ce sens - me rend heureux.
+
+Ce qui me rend le plus heureux de tous, c'est quand quelqu'un me dit "je t'aime" - avec une signification aussi inconditionnelle que j'ai l'intention de lui porter - et je l'accepte simplement. Apprendre à accepter l'amour inconditionnel a été la partie la plus exigeante de mon éducation. Cela demande de m'aimer moi-même autant que je suis aimé, ce qui n'est pas facile, car j'aime prétendre que mes imperfections dégoûtantes sont invisibles de tous sauf moi.
+
+Voilà, quand j'aime sans finalité et accepte l'amour sans un doute, je suis heureux. Avec ça, je ne suis pas à la recherche du bonheur. Je le deviens.

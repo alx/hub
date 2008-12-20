@@ -1,9 +1,12 @@
-[submodule "alexgirard"]
-	path = alexgirard
-	url = git@github.com:alx/alexgirard.git
 [submodule "jekyll"]
 	path = jekyll
 	url = git@github.com:alx/jekyll.git
-[submodule "gh-pages"]
-	path = gh-pages
+[submodule "alx.github.com"]
+	path = alx.github.com
+	url = git@github.com:alx/alx.github.com.git
+[submodule "site-content"]
+	path = site-content
+	url = git@github.com:alx/alexgirard.git
+[submodule "alexgirard.com"]
+	path = alexgirard.com
 	url = git@github.com:alx/alx.github.com.git

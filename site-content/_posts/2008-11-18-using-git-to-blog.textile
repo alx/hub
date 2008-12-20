@@ -1,0 +1,19 @@
+---
+layout: post
+title: Using Git To Blog
+---
+
+h1. {{ page.title }}
+
+p(meta). 18 Nov 2008 - Toulouse
+
+Starting today, I'll use git to manage my blog. This is an idea from "Tom Preston-Werner":http://tom.preston-werner.com/, one of the cofounder of "github":http://github.com, you can read about his "experiment to build the blogging tool":http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html in use on my new blog.
+
+He got the point when telling we don't need a major web interface connected to a database to manage simple content like text and links, we just need a way to save it, and distribute it on remote hosts. Without the fear of breaking it all (sql goof, shell mistake, ...) on the server hosting your blog, git allows to distribute content on various servers, and retrieve it from any place, it could bring a new dimension on distributed blogging with small experiments.
+
+"Jekyll":http://github.com/alx/jekyll/, the current tool to transform your git blog into webpages is a young tool, with "just a month of existence":http://github.com/alx/jekyll/commit/d189e05d236769c1e5594af9db4d6eacb86fc16e. Basicly, it creates static files from a git repository, so you don't even need PHP or MySQL to manage your blog, just a command and a ftp connection, back to 90's basics. We'll see where it goes, but I bet it'll surely please of lot of the git community, enjoying the real distributed power of git to expand the tool with new features.
+
+As a young project, there're still a lot of missing features: 
+
+* categories, tags: these 2 can easily be managed inside the text file use to build a post, we just need ot generate a new page on the blog
+* comment, media management: it might be trickier, it sure can use embed from services like "flickr":http://flickr.com (photos), "disqus":http://disqus.com/ (comments) or "gist":http://gist.github.com/ (code) but at the cost of losing the distributed advantage of git, one of these services close and you lose it all.

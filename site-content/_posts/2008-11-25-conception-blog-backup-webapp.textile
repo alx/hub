@@ -1,0 +1,41 @@
+---
+layout: post
+title: Web-app de Blog Backup
+---
+
+Dans l'idée de me faire la main sur le framework "Merb":http://merbivore.com, il  a des dizaine de concept qui me viennent à l'esprit.
+
+Afin d'allier l'utile à l'agréable, et pour pouvoir me soulager d'un manque, je pense développer une interface de backup de blog. Beaucoup de mes projets utilisent en effet Wordpress comme gestionnaire de contenu (CMS), mais il me manque la sécurité de ne pas voir disparaître toute les données dans un crash d'une machine ou une mauvaise manipulation sur les bases de données.
+
+h2. Définition de l'application
+
+L'application de backup de blog est une application en ligne qui permet aux utilisateurs enregistrés d'ajouter un blog et de récupérer une backup de ce blog à n'importe quel moment.
+
+h2. Fonctionnement de l'application
+
+h3. L'utilisateur sauvegarde son blog
+
+* L'utilisateur crée un compte et se connecte
+* L'utilisateur ajoute l'adresse de son blog dans son compte
+	* Si nécessaire, on lui demandera les données de connexion pour xml-rpc
+	* Si xml-rpc n'est pas disponible, alors les backup se feront a partir du fil RSS
+* L'utilisateur se déconnecte
+
+h3. L'utilisateur récupère une backup
+
+* L'utilisateur se connecte à son compte
+* L'utilisateur télécharge le fichier xml de backup lié a un blog
+* L'utilisateur se déconnecte
+
+h2. Extensions
+
+*Versionning*: l'application passer automatiquement sur les blog pour récupérer les dernières mises à jours. Un système de versionning permettra à l'utilisateur de récupérer des backup de diverses dates.
+
+*Migration*: un bouton de migration servira à l'utilisateur pour saisir l'url de son nouveau blog, l'application se chargera alors de communiquer au nouveau blog les données de l'ancien, et l'application se changera de surveiller ce nouveau blog a partir de ce moment.
+
+h2. Limitations
+
+* _Des plugins de backup existent déjà_: le but de l'application est de fournir une interface simple sans installation de la part de l'utilisateur.
+* _Seulement compatible avec Wordpress_: l'application doit Être facilement extensible à d'autre systèmes de blog, soit par xml-rpc, soit par RSS.
+* _Peu de personnes sont concernés_: très bien pour un démarrage, mon application se limitera à la dizaine de blog que je dois sauvegarder.
+* _Restauration sans fichier_: si disponible dans le blog de l'utilisateur, l'utilisateur peut directement saisir une url disponible dans l'application, liée à sa sauvegarde, et l'application communiquera la backup en xml-rpc au blog.

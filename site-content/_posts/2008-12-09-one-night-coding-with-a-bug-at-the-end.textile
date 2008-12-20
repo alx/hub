@@ -1,0 +1,26 @@
+---
+layout: post
+title: One night coding with a bug at the end
+---
+
+We've spend several hurs this afternoon with Seb to see how to refactor his system, and how to use the last ruby technologies, like "Merb":http://merbivore.com and a lot of nice little gems available on "GitHub":http://github.com to make it even easier to manage.
+
+Then, I've spent the night starting to implement the idea, which is nearly working:
+
+* In the CMS part, pages are created
+* These pages contain dynamic elements, they would call code references in various Merb Slice that would be availble in the app
+* First Slice is the typical _Hello World_: if user place a *@@helloword_show* element in his page content, it will be replaced automaticly by _Hello World_ in the generated page content
+
+To manage this experimentation various steps had been necessary:
+
+* Use "rSpec":http://rspec.info/ to be sure the page model and its elements are solidly built
+* "Create a Slice":http://wiki.merbivore.com/howto/slice: it's the long, boring part, we'll need to see how to automatize it, because actually there's a lot of small edits each time to add a new Slice
+* Connect from the CMS part to the Slice using "RestClient":http://rest-client.heroku.com/: it's a ruby gem that allows you to make an http request in the simplest way. For example, the HelloWorld Slice return json object (it could be html or xml) containing the page element content 
+
+Next, it might be useful to have a look at the "Merb Parts":http://wiki.merbivore.com/howto/parts, they are small _widgets_ with their own controller that could be used to generate simple content, we'll need to see where to separate the CMS part from the various dynamic slices we'll build.
+
+And the night finish on this beautiful bug that have just appeared:
+
+<script src="http://gist.github.com/33788.js"></script>
+
+I'll have to rollback on the git commit to understand where a conflict has been created, or look for a new version of "DataMapper":http://datamapper.org/ some reference to this _LazyArray::RETURN_SELF_ constant were "recently deleted from some of its forks":http://github.com/dkubb/extlib/commit/471d856f57e66793caca1b9326abc0c66d5f2a14 in github.

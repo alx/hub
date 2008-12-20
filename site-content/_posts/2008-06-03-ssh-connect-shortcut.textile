@@ -1,0 +1,16 @@
+---
+layout: post
+title: SSH Connect sortcut
+---
+
+h1. {{ page.title }}
+
+p(meta). 3 Jun 2008 - Madrid
+
+With dozens of ssh connections each days, you better need a shortcut way to make it faster. Frustation comes to a end with this script:
+
+<script src="http://gist.github.com/24556.js"></script>
+
+Put this _ruby script_ in your bin directory, make it executable, *add your servers info hash* in the array, and eventually "copy your ssh public key in the various servers to never be asked for password":http://pkeck.myweb.uga.edu/ssh/.
+
+When executing it, you can give it the '_id_' as an argument, and it will connect automatically to the server with the corresponding id!

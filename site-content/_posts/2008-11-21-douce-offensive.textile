@@ -1,0 +1,16 @@
+---
+layout: post
+title: DouceOffensive.org nouvel espoir
+---
+
+h1. {{ page.title }}
+
+p(meta). 21 Nov 2008 - Toulouse
+
+Après une semaine de travail, la nouvelle version de "Douceoffensive.org":http://douceoffensive.org est en ligne!
+
+!http://farm4.static.flickr.com/3003/3047257469_2155830e70.jpg!
+
+Gérer par Wordpress et le plugin PhotoQ, le site ne consiste qu'en un thème minimaliste, alimenté par les photos de Guillaume Ajavon.
+
+Comme d'habitude, vous pouvez "télécharger ce blog complet":http://github.com/alx/douce-offensive/ (inclut thème et plugins) sur github.com si vous voulez vous monter le même système pour votre photoblog.

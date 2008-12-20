@@ -1,0 +1,19 @@
+---
+layout: post
+title: New Flat and Wifi Extension
+---
+
+h1. {{ page.title }}
+
+p(meta). 26 Jul 2008 - Madrid
+
+Here comes some photos of the new flat we occupy with Maki, after a Ikea triathlon (1 day shopping, 1 day building, 1 day enjoying), on the same building of the office, just 3 floors below:
+
+!http://farm4.static.flickr.com/3193/2703219381_a789a42efe.jpg(Côté Salon)!
+
+!http://farm4.static.flickr.com/3212/2703223805_4416e75483.jpg(Côté bureau)!
+
+Wifi connection needed a small boost, "Pringles cans reflectors":http://www.freeantennas.com/projects/template/ are doing a great job.
+!http://farm4.static.flickr.com/3287/2703221693_a75623a38a.jpg(Wifi Pringles antenna)!
+
+We've got now a repeater bridge at home, and just in case, you can "download the nvram config backup":http://blog.alexgirard.com/wp-content/uploads/2008/07/repeater_bridge.bin (WPA mode, password is xxxxxx).

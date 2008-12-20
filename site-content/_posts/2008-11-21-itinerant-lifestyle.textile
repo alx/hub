@@ -1,0 +1,8 @@
+---
+layout: post
+title: Itinerant lifestyle
+---
+
+_Possessions meant little to Erdős; most of his belongings would fit in a suitcase, as dictated by his itinerant lifestyle. Awards and other earnings were in general donated to people in need and various worthy causes. He spent most of his life as a vagabond, travelling between scientific conferences and the homes of colleagues all over the world. He would typically show up at a colleague's doorstep and announce "my brain is open", staying long enough to collaborate on a few papers before moving on a few days later. In many cases, he would ask the current collaborator about whom he (Erdős) should visit next. His working style has been humorously compared to traversing a linked list._
+
+"Wikipedia entry on Paul Erdős":http://en.wikipedia.org/wiki/Paul_Erd%C5%91s

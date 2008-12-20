@@ -1,0 +1,16 @@
+---
+layout: post
+title: Available-for-Hire Wordpress plugin
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 Nov 2008 - Madrid
+
+It was when reading "Dr Nic blog":http://drnicwilliams.com/ that I noticed the big banner at the bottom announcing his availability for hire.
+
+So, after a few moment in my source editor, this banner is now available as a Wordpress plugin, with few options inside Wordpress admin to select the specialities you want to be hire for :)
+
+!http://blog.alexgirard.com/wp-content/uploads/2008/11/imagen-1-300x240.png!
+
+"Download the Plugin":http://blog.alexgirard.com/wp-content/uploads/2008/11/imagen-1.png or "Follow the project on Github":http://github.com/alx/alexgirard.com-blog/tree/master/wp-content/plugins/hire

@@ -1,0 +1,27 @@
+---
+layout: default
+title: Alex Girard
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+	{% for post in site.posts limit:5 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	<li><a href="/archives.html">archives...</a></li>
+  </ul>
+  
+  <h1>Open Source Projects</h1>
+  <ul class="posts">
+    <li><a href="http://www.feevy.com">Feevy:</a> Dynamic blogroll on your blog with a simple js tag [<a href="http://github.com/alx/feevy/">code</a>]</li>
+    <li><a href="http://rfeedreader.rubyforge.org">rFeedReader:</a> Extract latest posts from any rss/atom feed, used on Feevy.com [<a href="http://github.com/alx/rfeedreader/">code</a>]</li>
+    <li><a href="http://rfeedfinder.rubyforge.org">rFeedFinder:</a> Discover rss/atom feed link on any webpage, used on Feevy.com [<a href="http://github.com/alx/rfeedfinder/">code</a>]</li>
+    <li><a href="http://openid.alexgirard.com">Openid-Server:</a> PHP package to install an OpenId server [<a href="http://github.com/alx/openid-server/">code</a>]</li>
+    <li><a href="http://bookmark.alexgirard.com">Pressmark:</a> Social bookmarking, <a href="http://delicious.com">Del.icio.us</a> clone, with Wordpress [<a href="http://github.com/alx/pressmark/">code</a>]</li>
+    <li><a href="http://arduino.cc">Arduino.tmbundle:</a> Textmate Bundle to make and upload programs to Arduino [<a href="http://github.com/alx/arduino.tmbundle/">code</a>]</li>
+	<li><a href="http://bbvablogs.com">Blogsfera:</a> Wordpress-Mu in Spanish, with useful plugins and themes by default [<a href="http://github.com/alx/blogsfera/">code</a>]</li>
+	<li><a href="http://barceloneta.fr">Barceloneta:</a> Blog-shop for Sandra Dupire [<a href="http://github.com/alx/barceloneta/">code</a>]</li>
+	<li><a href="http://douceoffensive.org">Douce Offensive:</a> Photoblog of Guillaume Ajavon [<a href="http://github.com/alx/douce-offensive/">code</a>]</li>
+  </ul>
+</div>

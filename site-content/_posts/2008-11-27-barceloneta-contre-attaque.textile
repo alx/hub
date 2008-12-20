@@ -1,0 +1,13 @@
+---
+layout: post
+title: Barceloneta.fr nouvelles couleurs
+---
+
+Grosse mise à jour pour Barceloneta.fr, après 2 ans de loyaux services sur un panier e-commerce fait-maison avec "Ruby On Rails":http://rubyonrails.com, voici maintenant venir la dernière version de "Wordpress":http://wordpress.org avec le plugin "wp-shopping-cart":http://www.instinct.co.nz/e-commerce, la meilleure solution open-source du moment, avec un tas de fonctionnalités permettant de facilement gérer un stock de produits ou de gérer les passerelles de paiements en ligne sans trop de soucies. 
+
+!http://farm4.static.flickr.com/3219/3061622137_a18d43b561.jpg!:http://barceloneta.fr
+
+Le design du blog est de Sandra, et comme d'habitude, il est disponible en téléchargement sur mon espace "Github":http://github.com/alx:
+
+* "Télécharger tout le code de barceloneta.fr":http://github.com/alx/barceloneta poru monter votre propre magasin en ligne
+* "Seulement voir le thème barceloneta.fr":http://github.com/alx/barceloneta/tree/master/wp-content/themes/barceloneta pour l'appliquer sur votre blog Wordpress

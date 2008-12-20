@@ -1,0 +1,20 @@
+---
+layout: post
+title: GitHub discoveries and todo list
+---
+
+Quite a productive week with a lot of discoveries on GitHub, a little surf over there bring you to a lot of interesting projects and blogs:
+
+* "Sunfox":http://sunfox.org/: A blog by a french guy, refreshing articles and music
+* "Kevin Marsh":http://kevinmarsh.com/: interesting articles about git and rails, with some nice best-pratices
+* "Panda":http://github.com/newbamboo/panda/: Video encoding made easy with AWS, interesting to build a video portal without worrying about server diskspace
+* "objectiveresource":http://github.com/yfactorial/objectiveresource/: A port of Ruby on Rails' ActiveResource to Objective-C (and specifically the iPhone), I'll need to have a look after a week working on iPhone dev
+
+And the todo list for coming week:
+
+* Work with Seb on "merb":http://merbivore.com/ to refactor his CMS/eCommerce platform, lots of ideas about how to use merb potential and give it a nice kick
+* Binema reboot: use a "twitter":http://twitter.com bot to add/edit movies on a reborn Binema. It could use "CouchDB":http://incubator.apache.org/couchdb/ to create a many-universe torrent tracker
+* Jekyll plugin: I really need to find a way to insert dynamic content in "Jekyll":http://github.com/mojombo/jekyll/ blog generator, like a rss feed block that would be generated at the creation. Bad stuff is that this content would be static until next generation. To follow
+* Wordpress JSON: it would be nice if I can get wordpress to export its data as json, it shouldn't be too hard
+* "DouceOffensive":http://douceoffensive.org iPhone app: just a first demo case to be sure I'm able to dev some niceties on iPhone for future contracts
+* "Barceloneta.fr":http://barceloneta.fr iPhone app: an eCommerce application that would serve a lot of people, the next big hit in my pocket :)

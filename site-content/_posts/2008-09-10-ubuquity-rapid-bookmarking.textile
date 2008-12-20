@@ -1,0 +1,18 @@
+---
+layout: post
+title: Rapid Bokmarking with Ubiquity
+---
+
+h1. {{ page.title }}
+
+p(meta). 09 Sep 2008 - Madrid
+
+"!http://blog.alexgirard.com/wp-content/uploads/2008/09/ubiquity_side.png!":http://labs.mozilla.com/2008/08/introducing-ubiquity/ I was the only new thing I was blown away with after a week without internet: "Ubiquity":http://labs.mozilla.com/2008/08/introducing-ubiquity/
+
+If you still don´t use it, spend 5 minutes "watching the video":http://vimeo.com/1561578?pg=embed&sec=1561578, and "install it!":https://people.mozilla.com/~avarma/ubiquity-0.1.1.xpi
+
+It's fairly easy to add new code to expend it, but you can see the prototype side of the tools when it comes about managing the new verbs you've installed.
+
+Now with this bit of code, we've just got another way to bookmark pages in "Pressmark":http://blog.alexgirard.com/wordpress-pressmark-bookmarks-with-wordpress-cms/:
+
+<script src="http://gist.github.com/24552.js"></script>

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Why Git is Better than X? en français
+---
+
+"Scott Chacon":http://jointheconversation.org/ nous présente un nouveau site pour la diffusion de Git: "http://whygitisbetterthanx.com/":http://whygitisbetterthanx.com/
+
+Scott Chacon est l'auteur des "Gitcasts":http://gitcasts.com/ et de "la conférence à la RailsConf":http://jointheconversation.org/2008/06/02/railsconf-git-talk/ qui aura permis à énormément de développeur de découvrir comment fonctionne vraiment Git.
+
+Avec sa communauté sur "GitHub":http://github.com et sa facilité d'utilisation, il faudra maintenant compter sur Git durant les prochaines années, ce qui est une bonne chose. Voici ce que donne une collaboration à plusieurs pour la traduction du document de Scott Chacon:
+
+!/images/git-network.png!:http://github.com/alx/whygitisbetter/network
+
+Si vous avez besoin de plus d'informations en français, vous pouvez "consultez la traduction française":http://fr.whygitisbetterthanx.com/ de _Why Git is Better Than X_.

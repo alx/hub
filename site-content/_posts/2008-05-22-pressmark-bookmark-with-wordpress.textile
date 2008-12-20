@@ -1,0 +1,42 @@
+---
+layout: post
+title: Social Bookmarking with Wordpress
+---
+
+h1. {{ page.title }}
+
+p(meta). 22 May 2008 - Madrid
+
+Pressmark is a "Wordpress":http://www.wordpress.org installation with all you need to start a social bookmarking website (like "del.icio.us":http://del.icio.us, "sabros.us":http://sabros.us, ...).
+
+"!http://blog.alexgirard.com/wp-content/uploads/2008/05/image-1-300x212.png!":http://bookmark.alexgirard.com
+
+*You can see a demo of Pressmark installation on "bookmark.alexgirard.com":http://bookmark.alexgirard.com*
+
+Pressmark includes "Wordpress Prologue theme":http://svn.automattic.com/wpcom-themes/prologue/, which has been used by Wordpress team to have a "twitter-like dev-blog":http://prologuedemo.wordpress.com/.
+
+Prologue include "Gravatar":http://gravatar.com support, so go to upload your avatar on "gravatar.com":http://gravatar.com to have a nicer output!
+If you feel like adding your own modification to the code, you can clone/fork the project on Github: 
+
+"http://github.com/alx/pressmark/":http://github.com/alx/pressmark/. All contributions are welcomed!
+
+*Ideas to extend Pressmark:*
+
+* Bookmarlet, Jabber bot for easy posting;
+* Import from bigger social-bookmark accounts (delicious, magnolia, ...)
+* Cross-blogging to decentralized bookmark management in various blog spaces
+
+*Installation*
+
+* Get Pressmark source code:
+** "Download it from Github":http://github.com/alx/pressmark/tarball/master
+** If you've got git installed, clone it from Github (to easily get last updated): _git clone git://github.com/alx/pressmark.git pressmark_
+* Move the source to your webserver, ask a geek how to do it if you don't know :)
+* Wordpress configuration: copy '_wp-config-sample.php_' to '_wp-config.php_' and fill up the MySQL database information.
+* Access to the website where you've installed Pressmark, and begin the "2 min. installation" from Wordpress
+* Now that your website is ready, go in the administration pages and activate the following options:
+** In '_Design_': select '_Pressmark_' theme;
+** In '_Setting_': select '_Anyone can register_' and set the '_New User Default Role_' to '_Author_' if you want your users to post links;
+** In '_Plugins_': activate '_WP-OpenID_' plugin
+
+

@@ -1,0 +1,61 @@
+---
+layout: post
+title: Azureus and Mininova Bookmarks
+---
+
+h1. {{ page.title }}
+
+p(meta). 17 Jul 2008 - Madrid
+
+Last week, "Mininova has released a bookmark system":http://blog.mininova.org/articles/2008/07/08/new-feature-personal-bookmarks-remote-downloading/ for its users, it would allow remote downloading, but information are missing to configure "Azureus/Vuze":http://azureus.sourceforge.net properly, here is a mini tutorial.
+
+You can imagine the reation of channels on Mininova, give your feed to your friends, and all start to download the same torrents at the same time to improve your speed and share the good content!
+
+h2. Mininova configuration
+
+* "Create a mininova account":http://www.mininova.org/register, or use your own to "login":http://www.mininova.org/login
+* When logged in, bookmark icon will appear next to the torrent link. Example: "Auberge Espagnole":http://www.mininova.org/tor/175356
+* Click on the bookmark link, it will be add on "your bookmarks page":http://www.mininova.org/my/bookmarks
+
+h2. Azureus configuration
+
+Be sure to have "the last version of Azureus":http://azureus.sourceforge.net/
+
+h3. Installing RSSFeed Scanner plugin
+
+Open Azureus, and go in menu: _File -> Plugins -> Installation Wizard..._
+
+Select "_By list from Sourceforge.net_", and select the plugin *RSS Feed Scanner* in the list, click _Next_ and _Install_
+
+h3. Configuring RSSFeed Scanner plugin
+
+Go in menu: _File -> Plugins -> RSSFeed Scanner_, select "Options" tab
+
+h4. Adding a RSS Feed URL
+
+Click on the "+" next to the top box
+
+!http://blog.alexgirard.com/wp-content/uploads/2008/07/imagen-7-300x148.png!
+
+* Give it a name
+* Set the URL you'll find on "your bookmarks page":http://www.mininova.org/my/bookmarks on mininova (called *Your personal RSS feed*)
+* press "*Enabled*"
+* and save
+
+h4. Adding a Filter
+
+Click on the "+" next to the bottom box
+
+!http://blog.alexgirard.com/wp-content/uploads/2008/07/imagen-8-300x278.png!
+
+* Give it a name
+* Set the filter to "*^http*"
+* Select "*Filter is a Regular Expression*"
+* Deselect "*Filter searches title*"
+* Set state to "*Forced Download*" if you wanted your torrent to start automaticly
+* Set Feed to your mininova feed your mininova feed you've just added to Azureus
+* Set type to "*None*"
+* Press "*Enabled*"
+* and save
+
+Go inside tab "Status", and you'll see your bookmarks there, starting to download.

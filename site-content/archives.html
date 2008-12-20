@@ -1,0 +1,14 @@
+---
+layout: default
+title: Alex Girard
+---
+
+<div id="home">
+  <h1>Blog Archives</h1>
+  <ul class="posts">
+	{% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	<li><a href="http://blog.alexgirard.com">more on old blog</a></li>
+  </ul>
+</div>

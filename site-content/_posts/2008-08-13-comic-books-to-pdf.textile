@@ -1,0 +1,32 @@
+---
+layout: post
+title: Comic Books to PDF
+---
+
+h1. {{ page.title }}
+
+p(meta). 13 Aug 2008 - Madrid
+
+!http://blog.alexgirard.com/wp-content/uploads/2008/08/imagen-1-193x300.png!
+
+Moebius is a script to convert Comic Book files (.cbr and .cbz) in PDF for portable reading.
+
+"Download last version of Moebius":http://github.com/alx/moebius/tarball/master, or "view its code":http://github.com/alx/moebius/tree/master on Github.
+
+*Usage*
+
+<pre>
+@
+	cd moebius_installation
+	./moebius.rb comic_file.cbr
+@
+</pre>
+
+It'll output a _comic_file.pdf_ file in your current directory.
+
+*Requirements*
+
+* Ruby 1.8
+* Gem: "prawn":http://prawn.majesticseacreature.com/
+* Unzip
+* Unrar
