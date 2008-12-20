@@ -46,8 +46,10 @@ namespace :publish do
     branch = 'gh-page'
     
     # Switch site-content to branch gh-pages
+    puts "-- checkout and merge site content on gh-page branch"
     g_content = Git.open(content)
-    g_content.pull("gh-page")
+    g_content.checkout(branch)
+    g_content.pull("origin", branch)
     
     # Use Jekyll to generate site-content in alx.github.com
     puts "-- Jekyll process"
@@ -61,7 +63,7 @@ namespace :publish do
     g = Git.open(remote)
     g.add
     g.commit(commit_message)
-    g.push("origin", branch)
+    g.push("origin", 'gh-pages')
     
     # Switch back site-content to master
     g_content.branch("master").checkout
