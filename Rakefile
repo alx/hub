@@ -32,7 +32,6 @@ namespace :publish do
     puts "-- sync  on ssh server"
     Net::SSH.start("alexgirard.com", "peeloo") do |ssh|
         ssh.exec! "cd public_html; git pull origin #{branch}"
-        #ssh.exec! "cd public_html; git pull"
     end
   end
 
@@ -49,7 +48,7 @@ namespace :publish do
     puts "-- checkout and merge site content on gh-page branch"
     g_content = Git.open(content)
     g_content.checkout(branch)
-    g_content.pull("origin", branch)
+    g_content.merge("master")
     
     # Use Jekyll to generate site-content in alx.github.com
     puts "-- Jekyll process"
@@ -66,7 +65,7 @@ namespace :publish do
     g.push("origin", 'gh-pages')
     
     # Switch back site-content to master
-    g_content.branch("master").checkout
+    g_content.checkout("master")
   end
 end
 
