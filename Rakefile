@@ -31,7 +31,7 @@ namespace :publish do
     # Connect to ssh and pull modifications
     puts "-- sync  on ssh server"
     Net::SSH.start("alexgirard.com", "peeloo") do |ssh|
-        ssh.exec! "cd public_html; git pull origin #{branch}"
+        ssh.exec! "cd public_html; /home/peeloo/bin/git pull origin #{branch};"
     end
   end
 
